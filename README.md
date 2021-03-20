@@ -1,6 +1,6 @@
 # ClimateWatch-Data-Analysis
   - This is a brief analysis of data offered by [ClimateWatch](https://www.climatewatchdata.org/data-explorer) under various subdivisions such as **Climate** and its effects factors such as **Green House Gases, Agriculture, SocioEconomic Indicators**, etc.
-  - The notebook in this repository in my result of exploration of various Machine Learning stuffs present in **Tensorflow** (basically just messing around with things that are already present :grin: ) therefore, some results would be inconclusive.
+  - The notebook in this repository in my result of exploration of various Machine Learning stuffs present in **Tensorflow** (basically just messing around with things that are already present :grin: ) therefore, some results could be inconclusive.
   - Usage of **ipywidgets** has been implemented for the ease of data selection.
   - Use [Voila](https://pypi.org/project/voila/) along with Jupyter Notebooks for better experience
 
